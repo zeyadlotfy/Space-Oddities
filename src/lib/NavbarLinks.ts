@@ -12,8 +12,8 @@ export const navbarLinks = [
     },
     {
         id: 2,
-        name: "Analysis",
-        href: "/analysis",
+        name: "Video",
+        href: "/video",
     },
     {
         id: 3,
@@ -22,7 +22,7 @@ export const navbarLinks = [
     },
     {
         id: 4,
-        name: "About",
+        name: "About Us",
         href: "/about",
     },
 ];
