@@ -23,11 +23,10 @@ export default function AboutUs() {
                         <div>
                             <h2 className="text-3xl font-bold mb-6">Our Mission</h2>
                             <p className="text-gray-600 leading-relaxed mb-6">
-                                At Solar Watch, we're dedicated to advancing our understanding of geomagnetic storms and their impact on Earth. Our team of experts works tirelessly to provide accurate predictions and vital information to protect our global infrastructure.
+                                The Sun is highly variable and cycles through periods when its magnetic activity is very high, and times when there is very low or almost no magnetic activity.<br /><br /> This year the Sun was very active! In May 2024 multiple large solar flares created space weather that affected Earth in a variety of ways. Your challenge is to use NASA data to create a visual representation (e.g., a movie, video of a dance, etc.) that helps the public better understand the May 2024 solar storms and their impacts.
+
                             </p>
-                            <p className="text-gray-600 leading-relaxed">
-                                Founded in 2015, we've grown from a small research group to a global leader in space weather monitoring, serving governments, industries, and the scientific community.
-                            </p>
+
                         </div>
                         <div className="bg-gray-200 h-96 rounded-lg overflow-hidden">
                             <Image
