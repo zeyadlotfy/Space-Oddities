@@ -126,7 +126,10 @@ export default function AboutUs() {
 
                     </p>
                     <button className="bg-white text-[#f8b500] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
-                        Our project
+
+                        <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/space-oddities/" target='_blank'>
+                            Our project
+                        </a>
                     </button>
                 </div>
             </section>
