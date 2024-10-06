@@ -4,6 +4,7 @@ import ArticleComponent2 from "@/components/research/Article2";
 import SpaceWeatherTimeline from "@/components/research/Article3";
 import PhenomenaTimeline from "@/components/researsh/TimeLine";
 import FinalVidoe from "@/components/videos/FinalVideo";
+import FinalVidoe2 from "@/components/videos/FinalVideo2";
 
 export default function ResearchPage() {
     return (
@@ -16,17 +17,22 @@ export default function ResearchPage() {
                         Exploring the impacts and patterns of geomagnetic storms through cutting-edge scientific research.
                     </p>
                 </div>
+
                 <div className="flex justify-center items-center">
-                    <FinalVidoe />
+                    <FinalVidoe2 />
 
                 </div>
+
                 <ArticleComponent />
 
 
             </div>
             <PhenomenaTimeline />
 
+            <div className="flex justify-center items-center">
+                <FinalVidoe />
 
+            </div>
             <SpaceWeatherTimeline />
             <ArticleComponent2 />
 
