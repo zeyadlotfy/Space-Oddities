@@ -97,7 +97,7 @@ export default function AboutUs() {
                                 role: "Vidoe Editor",
                                 image: "/api/placeholder/400/400"
                             }, {
-                                name: "name4",
+                                name: "Alaa Mahmoud",
                                 role: "Researcher #2",
                                 image: "/api/placeholder/400/400"
                             }
