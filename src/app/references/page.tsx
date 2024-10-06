@@ -32,6 +32,9 @@ export default function RefrencesPage() {
                             <Check className="w-8 h-6 pr-3 text-[#f8b500]" />
 
                             <a target="_blank" href="https://www.space-facts.com/">Space-Facts</a></li>
+                        <li className="pl-3 py-2 flex">
+                            <Check className="w-8 h-6 pr-3 text-[#f8b500]" />
+                            <a target="_blank" href="https://science.nasa.gov/sun/">Basic Facts About the Sun</a></li>
                     </ul>
                 </div>
                 <div className="">

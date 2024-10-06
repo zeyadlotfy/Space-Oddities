@@ -1,4 +1,6 @@
 import ArticleComponent from "@/components/research/Article";
+import PhenomenaTimeline from "@/components/researsh/TimeLine";
+import PhenomenaTimeline2 from "@/components/researsh/TimeLine2";
 
 export default function ResearchPage() {
     return (
@@ -16,6 +18,8 @@ export default function ResearchPage() {
 
 
             </div>
+            <PhenomenaTimeline />
+            {/* <PhenomenaTimeline2 /> */}
         </div>
     );
 }
