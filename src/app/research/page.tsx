@@ -1,4 +1,6 @@
+import ScrollToTopButton from "@/components/landing/ScrollButton";
 import ArticleComponent from "@/components/research/Article";
+import ArticleComponent2 from "@/components/research/Article2";
 import PhenomenaTimeline from "@/components/researsh/TimeLine";
 
 export default function ResearchPage() {
@@ -18,6 +20,8 @@ export default function ResearchPage() {
 
             </div>
             <PhenomenaTimeline />
+            <ArticleComponent2 />
+            <ScrollToTopButton />
         </div>
     );
 }
