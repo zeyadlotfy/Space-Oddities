@@ -93,7 +93,7 @@ export default function AboutUs() {
                                 image: "/api/placeholder/400/400"
                             },
                             {
-                                name: "name3",
+                                name: "Beshoy Mokhles Shehata",
                                 role: "Vidoe Editor",
                                 image: "/api/placeholder/400/400"
                             }, {
