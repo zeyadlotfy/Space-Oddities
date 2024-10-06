@@ -21,7 +21,7 @@ export default function ArticleComponent2() {
                 What Are Solar Storms
 
                 Solar storms begin when the Sun's magnetic field lines twist due to the rotation of plasma inside it. This process creates sunspots, which are cooler regions on the Sun’s surface, caused by the reduced flow of heat. But sunspots are just the beginning; the intense pressure on the magnetic field lines releases energy in the form of plasma known as a "coronal mass ejection" (CME).
-                <br />
+                <br /><br />
                 When this plasma reaches Earth, it interacts with our planet’s magnetic field, creating the beautiful auroras. But this plasma isn’t just a stunning display; it can also be destructive. Strong solar storms can cause large-scale power outages, destroy satellites, and even affect human health by exposing us to radiation.
 
                 Solar Storms Throughout History
