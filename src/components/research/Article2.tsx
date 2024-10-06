@@ -1,6 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
-import sky from "../../images/sky2.jpg"
-import Image from 'next/image';
+
 
 export default function ArticleComponent2() {
     return (
